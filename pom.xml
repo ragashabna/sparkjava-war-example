@@ -24,11 +24,7 @@
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.7.25</version>
 		</dependency>
-		<dependency>
-			<groupid>org.slf4j.boot</groupId>
-			<artifactId>slf4j-boot-starter-tomcat</artifactId>
-			<scope>provided</scope>
-                </dependency>
+		
 		
 	</dependencies>
 
