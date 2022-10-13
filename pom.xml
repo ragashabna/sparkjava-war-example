@@ -23,7 +23,7 @@
 	</dependencies>
 
 	<build>
-            <finalName>sparkjava-war-example</finalName>
+            <finalName>sparkjava-hello-world</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
