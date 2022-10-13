@@ -38,7 +38,7 @@
           <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
         </configuration>
       </plugin>
-    </plugins>
+		 </plugins>
   
   </build>
 </project>
